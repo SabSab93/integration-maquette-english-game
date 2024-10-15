@@ -14,4 +14,17 @@ section {
 .text-container{
     background-color: #083c44;
     margin-right: 50px;
+    font-size: 15;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.text-container h1 {
+    font-size: 2em; 
+    color: #20747c; 
+    font-weight: bold;
+}
+
+.text-container p {
+    font-size: 1.2em; /* Taille de la police du texte */
+   
 }
