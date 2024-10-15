@@ -1,3 +1,8 @@
+*{
+    border: 1px solid red;
+}
+
+
 /*
   1. Use a more-intuitive box-sizing model.
 */
@@ -59,31 +64,35 @@ header {
     padding: 25px;
     background-color: #20747c;
 }
-body{
-    background-color: #083c44;
-}
 
-.home{
-    margin: 10px 50px 20px;
-    background-color: #083c44;
-}
+
+
 
 section {
     display:flex;
-    align-items: flex-start;
+    align-items: center;
+    padding: 20px;
+    background-color: #083c44;
+ 
     
 }
-.video{
-    height: auto;
-    width: auto;
+.video-container{
+    width: 50%;
+    img{
+        align-items: center;
+
+    }
+
 }
 .text-container{
-
-    margin-right: 50px;
-    margin-left: 20px;
+    width: 50%;
+    display:flex;
+    flex-direction: column;
+    align-items : flex-end;
     font-size: 15;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #dae8e9; 
+
 }
 
 .text-container h1 {
