@@ -102,10 +102,13 @@ header {
 }
 
 .milieu-page {
-  align-content: center;
   padding: 20px;
   background-color: #083c44;
-  justify-content:space-between;
+  h1,h2 {
+    text-align:center;
+  }
+ 
 }
+
 
 
