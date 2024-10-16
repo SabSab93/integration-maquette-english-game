@@ -28,11 +28,13 @@ Afin d'ouvrir notre VS code à travers notre terminal et parametré le VS code s
 git config --global user.email "adresse@mail.com"
 git config --global user.name "Sabrina"
 
+## Origin
 
+Github
 
 ## Decoupage du projet
 
-Nous avons recupéré les images dans un premier temps
+Nous avons recupéré et enregistré les images dans un premier temps 
 
 1. Page du haut
 
