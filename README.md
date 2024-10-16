@@ -4,7 +4,7 @@
 ## Introduction
 Durant ce projet nous avons utilisé le language HTML et CSS. L'objectif est de reproduire la maquette ci-dessous :
 
-![Image de la maquette](./img/maquette_projet.jpg")
+![Image de la maquette](./img/maquette_projet.jpg)
 
 
 ## Decoupage du projet

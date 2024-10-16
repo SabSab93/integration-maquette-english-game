@@ -68,14 +68,13 @@ header {
 
 section {
     display:flex;
-    
     padding: 20px;
     background-color: #083c44;
-    
 }
 
 .video-container{
     width: 50%;
+    align-content: center;
     img{
         align-items: center;
     }
@@ -92,12 +91,13 @@ section {
     color: #dae8e9; 
 }
 
-.text-container h1 {
+.text-container  {
+  h1{
     font-size: 4em; 
-    font-weight: bold;  
-}
-
-.text-container p {
+    font-weight: bold; 
+  }
+  p {
     font-size: 1.5em;
+  }
 }
 
