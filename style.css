@@ -66,23 +66,21 @@ header {
 }
 
 
-
-
 section {
     display:flex;
     
     padding: 20px;
     background-color: #083c44;
- 
     
 }
+
 .video-container{
     width: 50%;
     img{
         align-items: center;
     }
-
 }
+
 .text-container{
     width: 50%;
     display:flex;
@@ -92,16 +90,14 @@ section {
     font-size: 15;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #dae8e9; 
-
 }
 
 .text-container h1 {
     font-size: 4em; 
-    font-weight: bold;
-    
+    font-weight: bold;  
 }
 
 .text-container p {
     font-size: 1.5em;
-   
 }
+
